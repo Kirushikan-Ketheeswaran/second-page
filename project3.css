@@ -1,0 +1,51 @@
+.m{font-family: 'Playfair Display', serif;}
+
+.top{margin-top: 57px;}
+
+.x{font-family:Georgia, 'Times New Roman', Times, serif; font-size: 50px;color: rgb(9, 9, 9);}
+.y{font-family:Georgia, 'Times New Roman', Times, serif; font-size: 50px;color: rgb(66, 2, 2);}
+.z{font-family:Georgia, 'Times New Roman', Times, serif; font-size: 50px;color: rgb(29, 20, 197);}
+
+.name{
+text-align: center;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+.name h1{
+    margin-bottom: 25px;
+}
+.name img{
+    margin-bottom: 20px;
+}
+.name p{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.parallex{
+height: 400px;
+margin-bottom: 50px;
+text-align: center;
+padding: 190px;
+}
+.parallex h1{
+color: red;
+
+}
+.u{text-align: justify; font-family:Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 25px;padding-right: 20px;}
+
+.c{text-align: center; font-family:Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 25px;padding-right: 20px;}
+
+hr{color: blue;}
+
+footer{
+height: 70px;
+margin-top: 40px;
+background-color: rgba(27, 79, 88, 0.89);
+font-size: 6;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 20px 50px;
+}
+footer a {color: azure;}
+
+.right{float:right;
+color: white;}
